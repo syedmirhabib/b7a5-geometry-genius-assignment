@@ -4,6 +4,10 @@ Requirements will be added and updated here after completing each portion of the
 
 # Assignment Requirements
 
+main Requirement
+
 Bonus
 
 - [] 
+
+Optional
